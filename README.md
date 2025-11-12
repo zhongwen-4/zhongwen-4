@@ -2,4 +2,4 @@
 # My data statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 # My active statistics chart
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongwen-4&theme=github](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongwen-4&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
