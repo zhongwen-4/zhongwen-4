@@ -5,40 +5,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 48 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                76 commits          ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-🌆 Daytime                98 commits          █████████░░░░░░░░░░░░░░░░   36.43 % 
-🌃 Evening                74 commits          ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Thursday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Saturday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2043%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,10 +41,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/main/assets/bar_graph.png)
-
-
- Last Updated on 13/11/2025 12:58:27 UTC
+ Last Updated on 13/11/2025 13:33:14 UTC
 <!--END_SECTION:waka-->
