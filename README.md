@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+My+name+is+Xiao+Jiu.;Welcome+to+my+personal+homepage%F0%9F%98%98)](https://git.io/typing-svg)
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhongwen-4&count_private=true&show_icons=true&bg_color=15,FBD9FC,98F5F9" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2043%20mins-blue)
