@@ -2,7 +2,6 @@
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhongwen-4&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
-# My active statistics chart
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongwen-4&theme=github)]
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
