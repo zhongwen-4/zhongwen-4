@@ -3,27 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2043%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   2 hrs 45 mins       ████████████████████████░   97.91 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-milky-plugins            2 hrs 49 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +15,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:47:01 UTC
+ Last Updated on 16/11/2025 18:47:28 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
