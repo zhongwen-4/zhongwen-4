@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,17 +11,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       █████████████████████████   99.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   4 hrs 35 mins       ███████████████████████░░   91.75 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-milky-plugins            4 hrs 56 mins       █████████████████████████   100.00 % 
+milky-plugins            4 hrs 46 mins       ████████████████████████░   95.51 % 
+my-docs                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Windows                  4 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -36,7 +39,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2025 18:49:52 UTC
+ Last Updated on 20/11/2025 18:52:08 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
