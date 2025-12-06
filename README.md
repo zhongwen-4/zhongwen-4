@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,20 +11,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 56 mins       █████████████████████████   98.75 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Python                   5 hrs 45 mins       █████████████████████████   98.70 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multifunctional_lexicon  5 hrs 14 mins       ██████████████████████░░░   87.02 % 
-milky-plugins            46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+multifunctional_lexicon  5 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -39,7 +38,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 18:50:49 UTC
+ Last Updated on 06/12/2025 18:48:29 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
