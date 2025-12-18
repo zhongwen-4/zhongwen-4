@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,17 +11,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        █████████████████████████   98.48 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   4 hrs 57 mins       █████████████████████████   98.12 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multifunctional_lexicon  6 hrs 14 mins       █████████████████████████   100.00 % 
+multifunctional_lexicon  5 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -36,7 +36,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 18:56:04 UTC
+ Last Updated on 18/12/2025 18:55:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
