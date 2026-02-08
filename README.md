@@ -11,35 +11,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 3 mins        ████████████████████████░   96.12 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   2 hrs 54 mins       ███████████████████████░░   93.49 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multifunctional_lexicon  5 hrs 6 mins        ████████████████████████░   96.95 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+multifunctional_lexicon  2 hrs 57 mins       ████████████████████████░   94.84 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            █████████████████░░░░░░░░   68.75 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   12 repos            ██████████████████░░░░░░░   70.59 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 07/02/2026 19:01:30 UTC
+ Last Updated on 08/02/2026 19:02:44 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
