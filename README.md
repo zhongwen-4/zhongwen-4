@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,21 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       █████████████████████░░░░   83.22 % 
-JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   3 hrs 51 mins       █████████████████████░░░░   84.71 % 
+JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multifunctional_lexicon  3 hrs 52 mins       ███████████████████████░░   93.72 % 
-Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+multifunctional_lexicon  4 hrs 17 mins       ████████████████████████░   94.28 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,7 +41,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 19:24:01 UTC
+ Last Updated on 20/02/2026 19:21:27 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
