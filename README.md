@@ -11,21 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       █████████████████████░░░░   84.71 % 
-JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   3 hrs               ████████████████████░░░░░   81.27 % 
+JSON                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multifunctional_lexicon  4 hrs 17 mins       ████████████████████████░   94.28 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+multifunctional_lexicon  3 hrs 27 mins       ███████████████████████░░   92.99 % 
+Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,7 +41,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2026 19:01:14 UTC
+ Last Updated on 22/02/2026 19:01:59 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
