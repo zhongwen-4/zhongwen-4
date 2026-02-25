@@ -11,22 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.34 % 
-Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.72 % 
+Python                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+TypeScript               46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multifunctional_lexicon  3 hrs 34 mins       ██████████████░░░░░░░░░░░   55.05 % 
-my-docs                  2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.94 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+my-docs                  2 hrs 39 mins       ████████████████░░░░░░░░░   65.45 % 
+multifunctional_lexicon  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.55 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -42,7 +41,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 19:31:22 UTC
+ Last Updated on 25/02/2026 19:33:14 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
