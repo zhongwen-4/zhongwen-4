@@ -11,21 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.72 % 
-Python                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-TypeScript               46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown                 1 hr 51 mins        ███████████████░░░░░░░░░░   58.33 % 
+TypeScript               46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-docs                  2 hrs 39 mins       ████████████████░░░░░░░░░   65.45 % 
-multifunctional_lexicon  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.55 % 
+my-docs                  2 hrs 39 mins       █████████████████████░░░░   83.51 % 
+multifunctional_lexicon  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 
 💻 Operating System: 
-Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,7 +41,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2026 19:33:14 UTC
+ Last Updated on 26/02/2026 19:25:57 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
