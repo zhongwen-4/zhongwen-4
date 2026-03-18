@@ -11,37 +11,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 34 mins       █████████████████████████   98.13 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   4 hrs 9 mins        ██████████████████████░░░   87.77 % 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwqa                     2 hrs 34 mins       █████████████████████████   98.24 % 
-multifunctional_lexicon  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+qwqa                     4 hrs 40 mins       █████████████████████████   98.86 % 
+multifunctional_lexicon  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████████████████░░░░░░░   72.22 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   14 repos            ██████████████████░░░░░░░   73.68 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 17/03/2026 19:34:48 UTC
+ Last Updated on 18/03/2026 19:29:55 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
