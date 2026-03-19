@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,37 +11,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 9 mins        ██████████████████████░░░   87.77 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Python                   4 hrs 19 mins       ██████████████████░░░░░░░   73.27 % 
+TOML                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwqa                     4 hrs 40 mins       █████████████████████████   98.86 % 
-multifunctional_lexicon  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+qwqa                     5 hrs 51 mins       █████████████████████████   99.08 % 
+multifunctional_lexicon  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ██████████████████░░░░░░░   73.68 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   15 repos            ███████████████████░░░░░░   75.00 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 18/03/2026 19:29:55 UTC
+ Last Updated on 19/03/2026 19:28:31 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
