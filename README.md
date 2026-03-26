@@ -11,21 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
-Python                   2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
-TOML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Markdown                 2 hrs 49 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Python                   2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwqa                     4 hrs 31 mins       ████████████████░░░░░░░░░   62.64 % 
-my-docs                  2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
+qwqa                     2 hrs 55 mins       █████████████░░░░░░░░░░░░   52.05 % 
+my-docs                  2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.95 % 
 
 💻 Operating System: 
-Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,7 +41,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2026 19:26:27 UTC
+ Last Updated on 26/03/2026 19:37:43 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
