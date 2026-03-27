@@ -11,21 +11,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       █████████████░░░░░░░░░░░░   50.27 % 
-Python                   2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   6 hrs 8 mins        ████████████████░░░░░░░░░   65.06 % 
+Markdown                 2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwqa                     2 hrs 55 mins       █████████████░░░░░░░░░░░░   52.05 % 
-my-docs                  2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.95 % 
+human_verification       3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
+qwqa                     2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+my-docs                  2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,7 +43,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2026 19:37:43 UTC
+ Last Updated on 27/03/2026 19:24:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
