@@ -11,23 +11,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 47 mins       ██████████████████░░░░░░░   71.91 % 
-Markdown                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python                   7 hrs 47 mins       ███████████████████████░░   90.65 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human_verification       5 hrs 44 mins       █████████████░░░░░░░░░░░░   53.00 % 
-qwqa                     2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-my-docs                  2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+human_verification       5 hrs 44 mins       █████████████████░░░░░░░░   66.81 % 
+qwqa                     2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  10 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -43,7 +42,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 19:09:18 UTC
+ Last Updated on 30/03/2026 19:34:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
