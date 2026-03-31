@@ -11,22 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 47 mins       ███████████████████████░░   90.65 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Python                   8 hrs 7 mins        ██████████████████████░░░   89.88 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-human_verification       5 hrs 44 mins       █████████████████░░░░░░░░   66.81 % 
-qwqa                     2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+human_verification       5 hrs 44 mins       ████████████████░░░░░░░░░   63.54 % 
+vortex_lexicon           3 hrs               ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+qwqa                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+codex                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -42,7 +44,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2026 19:34:07 UTC
+ Last Updated on 31/03/2026 19:33:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
