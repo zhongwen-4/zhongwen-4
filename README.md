@@ -5,6 +5,31 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2055%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   4 hrs 29 mins       ███████████████████░░░░░░   77.62 % 
+Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+upload_meme              5 hrs 12 mins       ███████████████████████░░   90.05 % 
+acidify                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+vortex_lexicon           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+💻 Operating System: 
+Windows                  5 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -18,7 +43,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 19:45:28 UTC
+ Last Updated on 17/04/2026 19:39:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
