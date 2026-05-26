@@ -11,23 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   51 mins             ██████████░░░░░░░░░░░░░░░   41.12 % 
-Kotlin                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Other                    25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other                    1 hr                █████████░░░░░░░░░░░░░░░░   35.59 % 
+Python                   54 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Kotlin                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-upload_meme              1 hr 14 mins        ███████████████░░░░░░░░░░   59.19 % 
-acidify                  40 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
-admin                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+upload_meme              1 hr 14 mins        ███████████░░░░░░░░░░░░░░   43.81 % 
+acidify                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+vortex_lexicon           37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+admin                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -43,7 +44,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 20:10:14 UTC
+ Last Updated on 26/05/2026 20:30:08 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
