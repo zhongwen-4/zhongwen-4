@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,24 +11,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.59 % 
-Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Kotlin                   3 hrs 9 mins        █████████████░░░░░░░░░░░░   51.27 % 
+JSON                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Other                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       ████████████████████████░   97.23 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+VS Code                  5 hrs 28 mins       ██████████████████████░░░   88.78 % 
+Codex CLI                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-acidify                  2 hrs 55 mins       ████████████████░░░░░░░░░   65.05 % 
-vortex_lexicon           1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
-admin                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+acidify                  4 hrs 14 mins       █████████████████░░░░░░░░   68.75 % 
+vortex_lexicon           47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+admin                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+ida                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Wireshark_mcp            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -44,7 +46,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 21:35:29 UTC
+ Last Updated on 04/06/2026 20:32:59 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
