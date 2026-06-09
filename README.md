@@ -11,42 +11,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.35 % 
-TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-TSConfig                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Kotlin                   2 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.90 % 
+TypeScript               1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+TSConfig                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       ██████████████████████░░░   89.81 % 
-Codex CLI                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+VS Code                  5 hrs 2 mins        ██████████████████████░░░   89.89 % 
+Codex CLI                34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 
 🐱‍💻 Projects: 
-acidify                  3 hrs 49 mins       ███████████████░░░░░░░░░░   61.27 % 
-fraq                     1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-ida                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-admin                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Wireshark_mcp            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+acidify                  2 hrs 50 mins       █████████████░░░░░░░░░░░░   50.79 % 
+fraq                     1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+ida                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+admin                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Wireshark_mcp            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████████████░░░░░░   75.00 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   15 repos            ████████████████████░░░░░   78.95 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 08/06/2026 20:39:58 UTC
+ Last Updated on 09/06/2026 20:29:16 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
