@@ -11,25 +11,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 28 mins        █████████████░░░░░░░░░░░░   51.26 % 
-Python                   59 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Python                   59 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+TOML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       ████████████████████████░   97.67 % 
-Codex CLI                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+VS Code                  3 hrs 23 mins       ███████████████████████░░   92.94 % 
+Codex CLI                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🐱‍💻 Projects: 
-fraq                     1 hr 28 mins        █████████████░░░░░░░░░░░░   51.26 % 
-group_admin_agent        1 hr 16 mins        ███████████░░░░░░░░░░░░░░   44.19 % 
-admin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-vortex_lexicon           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+group_admin_agent        1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+slot_machine             1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+fraq                     1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+admin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,7 +45,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2026 20:36:08 UTC
+ Last Updated on 13/06/2026 20:03:24 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
