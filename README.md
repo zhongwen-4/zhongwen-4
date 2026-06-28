@@ -11,22 +11,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       █████████████████████░░░░   83.39 % 
-TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Python                   1 hr 20 mins        ██████████████████░░░░░░░   71.67 % 
+TOML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       ████████████████████████░   96.17 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-slot_machine             3 hrs 58 mins       ████████████████████████░   96.17 % 
-admin                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+slot_machine             1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -42,7 +39,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 19:53:45 UTC
+ Last Updated on 28/06/2026 19:55:01 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
