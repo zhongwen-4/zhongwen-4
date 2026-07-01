@@ -11,16 +11,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 36 mins        ███████████░░░░░░░░░░░░░░   42.62 % 
+TOML                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+slot_machine             3 hrs 45 mins       █████████████████████████   99.51 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -36,7 +40,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2026 20:30:22 UTC
+ Last Updated on 01/07/2026 20:25:29 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
