@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,20 +11,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ███████████░░░░░░░░░░░░░░   42.62 % 
-TOML                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Python                   2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+Markdown                 1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+TOML                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-slot_machine             3 hrs 45 mins       █████████████████████████   99.51 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+slot_machine             4 hrs 40 mins       ██████████████████████░░░   86.69 % 
+codex                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+bot                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -40,7 +42,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 20:25:29 UTC
+ Last Updated on 02/07/2026 20:03:43 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
