@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,25 +11,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.59 % 
-TypeScript               7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Vue                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Markdown                 11 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.51 % 
+TypeScript               6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Vue                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 1 min        █████████████████████████   98.60 % 
-Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+VS Code                  25 hrs 18 mins      █████████████████████████   98.62 % 
+Codex CLI                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🐱‍💻 Projects: 
-fraq-debug               16 hrs 59 mins      ██████████████░░░░░░░░░░░   57.73 % 
-fraq-plugin-drift-bottle 6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Accessibility-Manager    4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-fraq-plugins             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-slot_machine             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+fraq-debug               16 hrs 59 mins      █████████████████░░░░░░░░   66.22 % 
+Accessibility-Manager    4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+fraq-plugin-drift-bottle 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+yogurt                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+fraq-plugins             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Windows                  29 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,7 +45,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 19:42:32 UTC
+ Last Updated on 20/07/2026 20:07:29 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
