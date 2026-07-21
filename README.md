@@ -11,25 +11,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.51 % 
-TypeScript               6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Vue                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Markdown                 11 hrs 53 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
+TypeScript               5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Vue                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Kotlin                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Groovy                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 18 mins      █████████████████████████   98.62 % 
-Codex CLI                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+VS Code                  26 hrs 53 mins      ████████████████████████░   97.52 % 
+Codex CLI                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🐱‍💻 Projects: 
-fraq-debug               16 hrs 59 mins      █████████████████░░░░░░░░   66.22 % 
-Accessibility-Manager    4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-fraq-plugin-drift-bottle 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-yogurt                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-fraq-plugins             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+fraq-debug               17 hrs 12 mins      ████████████████░░░░░░░░░   62.38 % 
+Accessibility-Manager    7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+fraq-plugin-drift-bottle 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+yogurt                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+admin                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  25 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,7 +45,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 20:07:29 UTC
+ Last Updated on 21/07/2026 20:01:34 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
