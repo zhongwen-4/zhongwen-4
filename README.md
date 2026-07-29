@@ -3,53 +3,57 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2013%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.18 % 
-TypeScript               2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-YAML                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-CSS                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
+TypeScript               3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+YAML                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+CSS                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 52 mins      █████████████████████████   99.47 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  14 hrs 3 mins       █████████████████████████   99.55 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-fraq-plugin-drift-bottle 7 hrs 57 mins       █████████████████░░░░░░░░   66.67 % 
-fraq-plugin-group-admin  3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-fraq-plugin-github       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-my-fraq-app              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-x64dbg                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+fraq-plugin-drift-bottle 10 hrs 43 mins      ███████████████████░░░░░░   76.04 % 
+fraq-plugin-group-admin  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+fraq-plugin-github       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+my-fraq-app              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+x64dbg                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  11 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 21 mins (95.1%)
+⏱ AI Coding Time: 13 hrs 36 mins (96.43%)
 
-✍️ 8,590 lines written by AI, 9 lines written by hand (99.9% AI-written)
+✍️ 11,549 lines written by AI, 74 lines written by hand (99.36% AI-written)
 
-🔤 825,320,615 Input Tokens, 2,385,130 Output Tokens
+🔤 1,047,592,007 Input Tokens, 3,060,529 Output Tokens
 
-💵 $4443.87 Estimated AI Cost This Week
+💵 $5578.86 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 93 AI Prompts
+🧠 18 AI Sessions, 110 AI Prompts
 
-GPT                      8,983 lines         █████████████████████████   100.00 % 
+GPT                      12,201 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.36% of written lines came from AI
+📝 Concise Prompter — average 177 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -65,7 +69,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:02:18 UTC
+ Last Updated on 29/07/2026 19:53:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
