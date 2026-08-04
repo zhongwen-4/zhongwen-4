@@ -13,47 +13,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
-TypeScript               3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-XML                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+TypeScript               4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+XML                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 24 mins      ███████████████████░░░░░░   76.78 % 
-Codex CLI                4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+VS Code                  11 hrs 12 mins      ██████████████████░░░░░░░   73.77 % 
+Codex CLI                3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
 
 🐱‍💻 Projects: 
-fraq-plugin-drift-bottle 12 hrs 49 mins      ██████████████████░░░░░░░   73.48 % 
-admin                    3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-fraq-plugin-group-admin  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Unknown Project          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-RedmiNote11-evergo       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+fraq-plugin-drift-bottle 10 hrs 38 mins      ██████████████████░░░░░░░   70.04 % 
+admin                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+fraq-plugin-group-admin  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+RedmiNote11-evergo       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  17 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 20 mins (99.38%)
+⏱ AI Coding Time: 14 hrs 57 mins (98.34%)
 
-✍️ 12,525 lines written by AI, 71 lines written by hand (99.44% AI-written)
+✍️ 11,291 lines written by AI, 71 lines written by hand (99.38% AI-written)
 
-🔤 1,151,262,255 Input Tokens, 3,423,993 Output Tokens
+🔤 498,059,228 Input Tokens, 1,679,384 Output Tokens
 
-💵 $6015.04 Estimated AI Cost This Week
+💵 $2427.43 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 128 AI Prompts
+🧠 16 AI Sessions, 106 AI Prompts
 
-GPT                      13,140 lines        █████████████████████████   100.00 % 
+GPT                      11,751 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.44% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.56% of changed lines were hand-edited
+🤖 AI-Driven — 99.38% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +69,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:44:18 UTC
+ Last Updated on 04/08/2026 20:09:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
