@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,47 +13,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs               ████████░░░░░░░░░░░░░░░░░   32.71 % 
-Markdown                 3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Vue                      2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TypeScript               3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Markdown                 2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Vue                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fraq-webui               5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
-fraq-plugin-drift-bottle 3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-GKD_subscription         1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-gkd-subscription         1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Accessibility-Manager    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+fraq-webui               5 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.03 % 
+GKD_subscription         1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+gkd-subscription         1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+fraq-plugin-drift-bottle 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Accessibility-Manager    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Windows                  12 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 7 mins (90.78%)
+⏱ AI Coding Time: 9 hrs 58 mins (90.44%)
 
-✍️ 5,050 lines written by AI, 19 lines written by hand (99.63% AI-written)
+✍️ 4,367 lines written by AI, 19 lines written by hand (99.57% AI-written)
 
-🔤 267,013,974 Input Tokens, 799,822 Output Tokens
+🔤 242,703,220 Input Tokens, 755,815 Output Tokens
 
-💵 $1185.22 Estimated AI Cost This Week
+💵 $1131.66 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 170 AI Prompts
+🧠 10 AI Sessions, 165 AI Prompts
 
-Deepseek                 2,884 lines         ██████████████░░░░░░░░░░░   54.51 % 
-GPT                      2,407 lines         ███████████░░░░░░░░░░░░░░   45.49 % 
+Deepseek                 2,948 lines         ████████████████░░░░░░░░░   64.06 % 
+GPT                      1,654 lines         █████████░░░░░░░░░░░░░░░░   35.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🤖 AI-Driven — 99.57% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +69,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:11:52 UTC
+ Last Updated on 10/08/2026 19:32:35 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
