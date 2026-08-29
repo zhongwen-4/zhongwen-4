@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,45 +13,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.11 % 
-YAML                     1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-Other                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Markdown                 1 hr 17 mins        ████████████░░░░░░░░░░░░░   46.56 % 
+Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 52 mins       ████████████████████░░░░░   80.52 % 
-VS Code                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Codex Vscode             2 hrs 5 mins        ███████████████████░░░░░░   75.71 % 
+VS Code                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-fraq-plugin-lexicon      3 hrs 19 mins       ███████████████████████░░   93.03 % 
-kms                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-admin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+fraq-plugin-lexicon      2 hrs 31 mins       ███████████████████████░░   91.01 % 
+kms                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+admin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs (84.09%)
+⏱ AI Coding Time: 2 hrs 12 mins (79.48%)
 
 ✍️ 0 lines written by AI, 290 lines written by hand (0.0% AI-written)
 
-🔤 3,608,536 Input Tokens, 187,240 Output Tokens
+🔤 3,157,357 Input Tokens, 120,705 Output Tokens
 
-💵 $31.86 Estimated AI Cost This Week
+💵 $25.53 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 33 AI Prompts
+🧠 7 AI Sessions, 25 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 241 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -68,7 +68,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 01:51:59 UTC
+ Last Updated on 29/08/2026 21:05:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
