@@ -13,44 +13,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     25 mins             ███████████░░░░░░░░░░░░░░   42.80 % 
-Markdown                 17 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Other                    16 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+YAML                     44 mins             ███████████░░░░░░░░░░░░░░   42.09 % 
+JSON                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Codex Vscode             32 mins             ████████████████░░░░░░░░░   62.80 % 
-VS Code                  19 mins             █████████░░░░░░░░░░░░░░░░   37.20 % 
+VS Code                  48 mins             █████████████░░░░░░░░░░░░   50.93 % 
+Codex Vscode             46 mins             ████████████░░░░░░░░░░░░░   49.07 % 
 
 🐱‍💻 Projects: 
-fraq-plugin-lexicon      33 mins             █████████████████░░░░░░░░   66.25 % 
-kms                      14 mins             ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-sign                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+fraq-plugin-lexicon      1 hr 18 mins        ████████████████████░░░░░   81.94 % 
+kms                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+sign                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (62.82%)
+⏱ AI Coding Time: 46 mins (49.08%)
 
-✍️ 2 lines written by AI, 213 lines written by hand (0.93% AI-written)
+✍️ 2 lines written by AI, 312 lines written by hand (0.64% AI-written)
 
-🔤 234,198 Input Tokens, 12,744 Output Tokens
+🔤 253,663 Input Tokens, 13,525 Output Tokens
 
-💵 $3.95 Estimated AI Cost This Week
+💵 $4.07 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 7 AI Sessions, 12 AI Prompts
 
 GPT                      2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.93% of written lines came from AI
-📝 Concise Prompter — average 323 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.64% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.07% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -66,7 +67,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 22:59:18 UTC
+ Last Updated on 01/09/2026 21:14:24 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
