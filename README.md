@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,48 +13,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 2 mins        ███████████████░░░░░░░░░░   60.68 % 
-YAML                     2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Markdown                 9 hrs 10 mins       ████████████████░░░░░░░░░   62.47 % 
+YAML                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Other                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 53 mins       ███████████████████░░░░░░   74.61 % 
-VS Code                  2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Codex Vscode             10 hrs 25 mins      ██████████████████░░░░░░░   70.90 % 
+VS Code                  3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🐱‍💻 Projects: 
-柯南：开局觉醒第二人格              6 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.87 % 
-a                        2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-everpal-sukisu-boot-build1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-fraq-plugin-doudizhu     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-admin                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+柯南：开局觉醒第二人格              8 hrs 54 mins       ███████████████░░░░░░░░░░   60.62 % 
+a                        2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+everpal-sukisu-boot-build1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+admin                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+comfyui                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 💻 Operating System: 
-Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 51 mins (89.48%)
+⏱ AI Coding Time: 12 hrs 56 mins (88.05%)
 
-✍️ 2,349 lines written by AI, 32 lines written by hand (98.66% AI-written)
+✍️ 2,488 lines written by AI, 32 lines written by hand (98.73% AI-written)
 
-🔤 25,646,600 Input Tokens, 633,148 Output Tokens
+🔤 26,702,209 Input Tokens, 788,581 Output Tokens
 
-💵 $162.98 Estimated AI Cost This Week
+💵 $176.02 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 122 AI Prompts
+🧠 25 AI Sessions, 126 AI Prompts
 
-GPT                      2,360 lines         █████████████████████████   100.00 % 
+GPT                      2,499 lines         █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.66% of written lines came from AI
-📝 Concise Prompter — average 442 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.08% of changed lines were hand-edited
+🤖 AI-Driven — 98.73% of written lines came from AI
+📝 Concise Prompter — average 380 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +71,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:35:25 UTC
+ Last Updated on 17/09/2026 21:38:16 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
