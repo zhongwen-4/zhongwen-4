@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,16 +13,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-YAML                     2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Kotlin                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Other                    3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+YAML                     2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Kotlin                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 Batchfile                1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Groovy                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+XML                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 44 mins      █████████████████████░░░░   82.57 % 
-Codex Vscode             2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+VS Code                  11 hrs 9 mins       █████████████████████░░░░   85.74 % 
+Codex Vscode             1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 
 🐱‍💻 Projects: 
 lemon_tool               13 hrs              █████████████████████████   100.00 % 
@@ -34,22 +33,22 @@ Windows                  13 hrs              ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 16 mins (94.4%)
+⏱ AI Coding Time: 12 hrs 33 mins (96.6%)
 
 ✍️ 213 lines written by AI, 10 lines written by hand (95.52% AI-written)
 
-🔤 26,076,934 Input Tokens, 995,094 Output Tokens
+🔤 27,463,503 Input Tokens, 1,052,271 Output Tokens
 
-💵 $463.97 Estimated AI Cost This Week
+💵 $506.14 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 87 AI Prompts
+🧠 24 AI Sessions, 76 AI Prompts
 
 GPT                      213 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 95.52% of written lines came from AI
-📝 Concise Prompter — average 173 characters per prompt
+📝 Concise Prompter — average 91 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 4.48% of changed lines were hand-edited
 ```
@@ -67,7 +66,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:30:29 UTC
+ Last Updated on 01/10/2026 22:50:44 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
