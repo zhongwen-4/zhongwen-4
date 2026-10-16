@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,48 +13,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
-Markdown                 3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-C++                      2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-C                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Other                    4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.54 % 
+Markdown                 3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
+C++                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 34 mins      ███████████████████████░░   93.58 % 
-VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Codex Vscode             9 hrs 50 mins       ███████████████████████░░   93.95 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🐱‍💻 Projects: 
-Comfy-Desktop            4 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
-thread_scheduling        3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-sign                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-lemon_tool               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-kousuan                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Comfy-Desktop            5 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.52 % 
+lemon_tool               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+sign                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+thread_scheduling        46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+kousuan                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 5 mins (98.07%)
+⏱ AI Coding Time: 10 hrs 20 mins (98.72%)
 
-✍️ 1,161 lines written by AI, 4 lines written by hand (99.66% AI-written)
+✍️ 349 lines written by AI, 3 lines written by hand (99.15% AI-written)
 
-🔤 16,754,865 Input Tokens, 359,680 Output Tokens
+🔤 14,303,911 Input Tokens, 331,572 Output Tokens
 
-💵 $44.89 Estimated AI Cost This Week
+💵 $38.84 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 78 AI Prompts
+🧠 12 AI Sessions, 72 AI Prompts
 
-GPT                      1,199 lines         █████████████████████████   100.00 % 
+GPT                      380 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
+🤖 AI-Driven — 99.15% of written lines came from AI
 📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:39:24 UTC
+ Last Updated on 16/10/2026 21:35:17 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
