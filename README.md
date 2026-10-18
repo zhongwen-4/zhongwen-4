@@ -13,48 +13,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.54 % 
-Markdown                 3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-C++                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Other                    3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+Markdown                 3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
+C++                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 50 mins       ███████████████████████░░   93.95 % 
-VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Codex Vscode             9 hrs 19 mins       ███████████████████████░░   93.42 % 
+VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🐱‍💻 Projects: 
-Comfy-Desktop            5 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.52 % 
-lemon_tool               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-sign                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-thread_scheduling        46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-kousuan                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Comfy-Desktop            5 hrs 4 mins        █████████████░░░░░░░░░░░░   50.94 % 
+lemon_tool               2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+sign                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+driver-manager           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  10 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 20 mins (98.72%)
+⏱ AI Coding Time: 9 hrs 49 mins (98.56%)
 
-✍️ 349 lines written by AI, 3 lines written by hand (99.15% AI-written)
+✍️ 281 lines written by AI, 4 lines written by hand (98.6% AI-written)
 
-🔤 14,303,911 Input Tokens, 331,572 Output Tokens
+🔤 13,612,842 Input Tokens, 306,926 Output Tokens
 
-💵 $38.84 Estimated AI Cost This Week
+💵 $37.33 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 72 AI Prompts
+🧠 10 AI Sessions, 63 AI Prompts
 
-GPT                      380 lines           █████████████████████████   100.00 % 
+GPT                      286 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.15% of written lines came from AI
+🤖 AI-Driven — 98.6% of written lines came from AI
 📝 Concise Prompter — average 43 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.04% of changed lines were hand-edited
+🚀 High AI Trust — 1.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:51:29 UTC
+ Last Updated on 18/10/2026 20:58:18 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
