@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongwen-4&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,48 +13,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.83 % 
-Python                   4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-JavaScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Git Config               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
+Python                   3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+JavaScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Git Config               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 9 mins        ██████████████░░░░░░░░░░░   55.20 % 
-VS Code                  7 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
+Codex Vscode             6 hrs 44 mins       ██████████████░░░░░░░░░░░   54.98 % 
+VS Code                  5 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
 
 🐱‍💻 Projects: 
-sign                     14 hrs 45 mins      ██████████████████████░░░   88.96 % 
-LLaMA-Factory            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-dev                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-llm                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-root                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+sign                     11 hrs 25 mins      ███████████████████████░░   93.24 % 
+dev                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+root                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Lagrange.Core            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 5 mins (96.96%)
+⏱ AI Coding Time: 11 hrs 53 mins (97.13%)
 
-✍️ 5,386 lines written by AI, 62 lines written by hand (98.86% AI-written)
+✍️ 4,706 lines written by AI, 61 lines written by hand (98.72% AI-written)
 
-🔤 41,797,629 Input Tokens, 1,161,450 Output Tokens
+🔤 34,680,091 Input Tokens, 935,171 Output Tokens
 
-💵 $188.12 Estimated AI Cost This Week
+💵 $167.64 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 65 AI Prompts
+🧠 11 AI Sessions, 53 AI Prompts
 
-GPT                      5,566 lines         █████████████████████████   100.00 % 
+GPT                      4,884 lines         █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.86% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
+🤖 AI-Driven — 98.72% of written lines came from AI
+📝 Concise Prompter — average 43 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.38% of changed lines were hand-edited
+🚀 High AI Trust — 1.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +69,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:55:03 UTC
+ Last Updated on 30/10/2026 22:34:58 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/zhongwen-4/zhongwen-4/output/github-contribution-grid-snake.svg)
